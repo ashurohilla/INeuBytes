@@ -101,3 +101,6 @@
 2023-07-29 15:13:15,759:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
 2023-07-29 15:13:15,763:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
 2023-07-29 15:13:15,806:INFO:Soft dependency imported: xgboost: None
+2023-07-29 15:44:36,168:WARNING:d:\ineubytesinternship\env\lib\site-packages\autogluon\core\utils\plots.py:169: UserWarning: AutoGluon summary plots cannot be created because bokeh is not installed. To see plots, please do: "pip install bokeh==2.0.1"
+  warnings.warn('AutoGluon summary plots cannot be created because bokeh is not installed. To see plots, please do: "pip install bokeh==2.0.1"')
+
